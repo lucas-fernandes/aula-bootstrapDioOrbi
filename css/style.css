@@ -1,0 +1,36 @@
+.navbar{
+    background-color: black;
+}
+
+a:hover{
+    color: #7740B6;
+}
+
+.quemsomos{
+    background-color: #7740B6;
+    color: white;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+section img{
+    margin: 20px;
+}
+
+.parceiros{
+    background-color: #724B9E;
+    color: white;
+}
+
+div p{
+    margin-top: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    margin-bottom: -14px;
+}
